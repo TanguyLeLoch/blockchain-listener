@@ -50,4 +50,4 @@ npm run server bsc
 
 # Condition to be black listed
 
--   blacklisting is a manual process only. Do a PUT on the contract endpoint. Example are available in the postman collection.
+-   blacklisting is a manual process only. Do a PUT on the contract endpoint. Examples are available in the postman collection.
