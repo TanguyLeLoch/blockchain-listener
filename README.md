@@ -36,16 +36,16 @@ npm run server bsc
 ## Seller
 
 -   sellerAddress : the address of the seller
--   contractAddress : the contract of the token sell
+-   contractAddress : the contract of the token sold
 
 # Condition to front run
 
 -   be profitable
--   the contract is whitelisted see condition below
+-   the contract is whitelisted (see condition below)
 
 # Condition to be white listed
 
--   no honeypot : at least 10 different seller
+-   no honeypot : at least 10 different sellers
 -   buy and sell fees are next to zero
 
 # Condition to be black listed
